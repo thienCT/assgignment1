@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="t2303e">
+    <output-path>$PROJECT_DIR$/out/artifacts/t2303e</output-path>
+    <root id="root">
+      <element id="archive" name="t2303e.jar">
+        <element id="module-output" name="t2303e" />
+      </element>
+    </root>
+  </artifact>
+</component>
